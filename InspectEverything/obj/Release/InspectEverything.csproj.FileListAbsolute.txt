@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Second Adventure\Mods\InspectEverything\Info.json
+C:\Program Files (x86)\Steam\steamapps\common\Pathfinder Second Adventure\Mods\InspectEverything\InspectEverything.dll
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\InspectEverything\InspectEverything\obj\Release\InspectEverything.csproj.AssemblyReference.cache
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\InspectEverything\InspectEverything\obj\Release\InspectEverything.csproj.CoreCompileInputs.cache
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\InspectEverything\InspectEverything\obj\Release\InspectEverything.dll

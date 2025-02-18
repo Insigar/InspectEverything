@@ -1,0 +1,9 @@
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\InspectEverything\InspectEverything\bin\Debug\Info.json
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\InspectEverything\InspectEverything\bin\Debug\InspectEverything.dll
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\InspectEverything\InspectEverything\bin\Debug\InspectEverything.pdb
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\InspectEverything\InspectEverything\bin\Debug\UniRx.dll
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\InspectEverything\InspectEverything\obj\Debug\InspectEverything.csproj.AssemblyReference.cache
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\InspectEverything\InspectEverything\obj\Debug\InspectEverything.csproj.CoreCompileInputs.cache
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\InspectEverything\InspectEverything\obj\Debug\InspectEverything.csproj.CopyComplete
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\InspectEverything\InspectEverything\obj\Debug\InspectEverything.dll
+C:\Users\Insigar\Downloads\WrathOfTheRighteous Modding Projects\InspectEverything\InspectEverything\obj\Debug\InspectEverything.pdb

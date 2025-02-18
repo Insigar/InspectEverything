@@ -1,0 +1,10 @@
+﻿{
+  "Id": "InspectEverything",
+  "DisplayName": "InspectEverything",
+  "Author": "Insigar",
+  "Version": "1.3.0",
+  "ManagerVersion": "0.24.0",
+  "Requirements": [],
+  "AssemblyName": "InspectEverything.dll",
+  "EntryMethod": "InspectEverything.Main.Load"
+}
